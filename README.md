@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ARicoViewTool::Renderer.copyright 'Alejandro Rico', 'Todos los derechos reservados.'
+```
 
 ## Development
 
